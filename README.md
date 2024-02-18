@@ -1,2 +1,1 @@
-# Survey Management System
-Python Project
+Survey Management System
